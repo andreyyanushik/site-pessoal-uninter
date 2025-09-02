@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: rgb(145, 11, 11);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ul {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 10px;
+}
+    
+a:hover {
+
+    color: red;
+}
+
+table {
+    background-color: #daecda;
+    padding: 10px;
+    text-align: left;
+    width: 400px;
+    border: 2px solid;
+
+}
+
+th , td {
+    border: 1px solid;
+     width: 200px;
+     text-align: center;
+
+}
+
+body {
+    background-color: rgb(248, 248, 246);
+}
